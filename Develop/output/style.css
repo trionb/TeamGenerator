@@ -1,0 +1,18 @@
+.jumbotron{
+    background-color: #9D1616;
+    color: whitesmoke;
+}
+body{
+    background-color: lightgrey;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.card-header{
+    background-color: #9D1616;
+    color: whitesmoke;
+}
+.card-body{
+    background-color: grey;
+}
